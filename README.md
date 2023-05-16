@@ -16,13 +16,12 @@ and interpersonal abilities. Consequently, he plans to organize a SQL challenge 
 
 # Task 
 
- 1.    Check ‘Poblem Statements.pdf’ - there are 10 requests for which the business needs insights.
- 2.    You need to run a SQL query to answer these requests. 
-
 
 ![60d35967a853a1b14851703b_All the data (1)](https://github.com/Sudhanshu-Tomar/Consumer_Goods-_Insights/assets/119277783/17f3d0ce-849e-451b-b0e3-481dc6b6d371)
 
 
+ 1.    Check ‘Poblem Statements.pdf’ - there are 10 requests for which the business needs insights.
+ 2.    You need to run a SQL query to answer these requests. 
 
 # Insights of Data
 
